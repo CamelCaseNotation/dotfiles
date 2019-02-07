@@ -1,0 +1,29 @@
+{
+    "editor.minimap.enabled": false,
+    "workbench.colorTheme": "Monokai",
+    "workbench.iconTheme": "eq-material-theme-icons-ocean",
+    "gitlens.currentLine.enabled": false,
+    "editor.fontSize": 14,
+    "vim.handleKeys": {
+        "<C-d>": true,
+        "<C-p>": true
+    },
+    "workbench.statusBar.feedback.visible": false,
+    "breadcrumbs.enabled": true,
+    "workbench.editor.highlightModifiedTabs": true,
+    "search.location": "panel",
+    "files.autoSave": "afterDelay",
+    "files.exclude": {
+        "**/node_modules": true
+    },
+    "gitlens.views.repositories.location": "explorer",
+    "diffEditor.renderSideBySide": false,
+    "workbench.colorCustomizations": {
+        "editor.selectionHighlightBorder": "#15ff00",
+        "editor.wordHighlightBorder": "#15ff00"
+    },
+    "explorer.confirmDelete": false,
+    "terraform.codelens.enabled": false,
+    "editor.codeLens": false,
+    "terraform.telemetry.enabled": false
+}
